@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '4220'
     url: http://www.gutenberg.org/2009/agents/4220
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40774#Brooks-s-Readers-Third-Year
 gutenberg_issued: '2012-09-16'
 gutenberg_type: Text
 identifiers:
